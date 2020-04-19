@@ -1,0 +1,9 @@
+# DEV
+/node_modules
+
+# BUILD
+dark-avocado-*.vsix
+
+# IDE
+.vscode
+

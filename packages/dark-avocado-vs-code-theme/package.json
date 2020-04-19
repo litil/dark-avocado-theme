@@ -1,0 +1,27 @@
+{
+    "name": "dark-avocado",
+    "version": "0.0.1",
+    "publisher": "litil",
+    "displayName": "Dark Avocado Theme",
+    "description": "Official dark avocado theme. A slightly dark theme with a touch of shiny green.",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "author": {
+        "name": "litil"
+      },
+    "license": "ISC",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": ["theme", "dark", "color-theme"],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Avocado Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Avocado Theme-color-theme.json"
+            }
+        ]
+    }
+}
