@@ -4,7 +4,7 @@
   "description": "Utilitity packages to generate colors for themes",
   "main": "index.js",
   "scripts": {
-    "build:vscode": "tsc && node dist/generateVSCode.js"
+    "build:vscode": "tsc && node dist/genereateVSCodeTemplate.js"
   },
   "author": "",
   "license": "ISC",

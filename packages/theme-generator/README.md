@@ -7,8 +7,11 @@ This small project lets you generate colors configuration files to be used in th
 I'll start here with a VSCode generator script as this is what I need right now. More to come later on.
 
 - [ ] Improve the color palette. Some colors are unused, others are not yet added to the palette.
-- [ ] Push the code to Github. Would be great to learn how to do a monorepo.
 - [ ] Update the theme to be perfect for React
+- [ ] Update the theme to be perfect for Markdown
+- [ ] Update the theme to be perfect for SCSS
+- [ ] Update the theme to be perfect for JSON
+- [ ] Read more about eye fatigue
 
 ## Supported Languages
 

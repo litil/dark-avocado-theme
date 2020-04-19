@@ -3,6 +3,7 @@
 
 # BUILD
 dist/*
+themes/*
 
 # IDE
 .vscode
