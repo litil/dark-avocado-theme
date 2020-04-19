@@ -1,0 +1,8 @@
+# DEV
+/node_modules
+
+# BUILD
+dist/*
+
+# IDE
+.vscode

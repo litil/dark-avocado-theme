@@ -1,0 +1,15 @@
+{
+  "name": "theme-generator",
+  "version": "0.0.1",
+  "description": "Utilitity packages to generate colors for themes",
+  "main": "index.js",
+  "scripts": {
+    "build:vscode": "tsc && node dist/generateVSCode.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^13.13.0",
+    "typescript": "^3.8.3"
+  }
+}
